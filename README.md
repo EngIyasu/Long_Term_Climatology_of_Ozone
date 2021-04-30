@@ -3,4 +3,4 @@ This GitHub repository is consisting of two Python Jupyter Notebooks. The first 
 
 This repository is prepared as part of my activity at 2020 Planetary Boundary Layer (PBL) workshop organized by Howard University.
 
-https://mybinder.org/v2/gh/EngIyasu/Long_Term_Climatology_of_Ozone/master
+
